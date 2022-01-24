@@ -10,6 +10,7 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
+/* Header Styling */
 header{
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -25,6 +26,7 @@ header a {
     text-decoration: none;
     color: #fce138;
 }
+/*Header nav Styling*/
 header nav {
     float: right;
     margin: 7px 0;
@@ -38,6 +40,33 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 22px;
 }
+section {
+    padding: 60px;
+}
+/* Hero Styling*/
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+}
+/*Hero style End*/
+
+/*Hero Form Styling*/
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    border: solid 3px #024e76;
+    position: absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+/* Footer Styling*/
 footer {
     background: #fce138;
     width: 100%;
