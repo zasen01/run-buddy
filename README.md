@@ -12,3 +12,5 @@ https://zasen01.github.io/run-buddy/
 
 ## Contribution
 Made with <3 By Zasen01
+
+### &copy2019  Run Buddy, Inc
